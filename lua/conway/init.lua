@@ -1,3 +1,5 @@
+-- SPDX-License-Identifier: MIT
+
 local M = {}
 
 local state = {

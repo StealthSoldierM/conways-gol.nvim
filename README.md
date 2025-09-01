@@ -27,7 +27,7 @@ To start/stop **Conways - Game of Life** type below keys in *neovim* on ~~Normal
 ```
 <leader>cg -> Init+Start the Game
 q -> To Quit The Game
-p -> Ton Toogle Play and pause State
+p -> Toogle Play and pause State
 ```
 
 # :sparkles: Summary

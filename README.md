@@ -1,5 +1,12 @@
 ![Game-of-Life-Bannar](./assets/conway-gol.png)
 # Table of Contents
+
+
+<details> <summary>Tap to View</summary>
+- [Quick Start](#rocket-installation-quick-start)
+</details>
+
+
 # :rocket: (Installation) Quick Start
 
 ## For :zzz: Lazy.nvim
@@ -68,4 +75,4 @@ In **neovim's** command mode
 ```
 
 # :sparkles: Summary
-Just enjoy. Credit to <a href='#'> THIS </a> paper.
+Just enjoy. Credit to <a href='https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life'> THIS </a> article.

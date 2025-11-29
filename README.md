@@ -3,9 +3,11 @@
 
 
 <details> <summary>Tap to View</summary>
-- <a href="#rocket-installation-quick-start"> Quick Start </a>
-- <a href="#books-usage-example"> Usage Example </a>
-- <a href="#x-uninstallation-guide"> Uninstallation Guide </a>
+  <ul>
+<li> <a href="#rocket-installation-quick-start"> Quick Start </a> </li>
+<li> <a href="#books-usage-example"> Usage Example </a> </li>
+<li> <a href="#x-uninstallation-guide"> Uninstallation Guide </a> </li>
+  </ul>
 </details>
 
 

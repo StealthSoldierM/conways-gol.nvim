@@ -3,7 +3,8 @@
 
 
 <details> <summary>Tap to View</summary>
-- [Quick Start](#rocket-installation-quick-start)
+- <a href="#rocket-installation-quick-start"> Quick Start </a>
+- <a href="#books-usage-example"> Usage Example </a>
 </details>
 
 

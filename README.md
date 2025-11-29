@@ -1,4 +1,5 @@
-# :rocket: Quick Start
+# Table of Contents
+# :rocket: (Installation) Quick Start
 
 ## For :zzz: Lazy.nvim
 
@@ -13,10 +14,21 @@
 ```
 
 
+## With Native Package Manager
 
-# :books: Usage Example
+In **neovim's** command mode
+
+
+```lua
+:lua=vim.pack.add('Game of Life', 'git@github.com/StealthSoldierM/conways-gol.nvim')
+```
+
+
+## :books: Usage Example
 ther are Two Ways to Start the  Game
-1. Using *neovim's* command mode
+
+
+1. Using **neovim's** command mode
 ```console
 $ :Conway
 ```
@@ -30,5 +42,29 @@ q -> To Quit The Game
 p -> Toogle Play and pause State
 ```
 
+
+# Uninstallation Guide
+
+## :zzz: Lazy.nvim
+
+
+In **neovim's** command mode
+
+```lua
+:Lazy
+```
+
+Then from **UI select and press** `x` from keyboard.
+
+
+## With Native Package Manager
+
+In **neovim's** command mode
+
+
+```lua
+:lua=vim.pack.remove('Game of Life')
+```
+
 # :sparkles: Summary
-Just enjoy
+Just enjoy. Credit to <a href='#'> THIS </a> paper.

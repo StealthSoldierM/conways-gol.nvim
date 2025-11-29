@@ -1,4 +1,4 @@
-![Game of Life Bannar] (./assets/conway-gol.png)
+![Game-of-Life-Bannar] (./assets/conway-gol.png)
 # Table of Contents
 # :rocket: (Installation) Quick Start
 

@@ -36,6 +36,9 @@ In **neovim's** command mode
 ```
 
 
+<a href="#table-of-contents">Back to Top</a>
+
+
 ## :books: Usage Example
 ther are Two Ways to Start the  Game
 
@@ -54,6 +57,8 @@ q -> To Quit The Game
 p -> Toogle Play and pause State
 ```
 
+
+<a href="#table-of-contents">Back to Top</a>
 
 # :x: Uninstallation Guide
 
@@ -74,9 +79,15 @@ Then from **UI select and press** `x` from keyboard.
 In **neovim's** command mode
 
 
+<a href="#table-of-contents">Back to Top</a>
+
+
 ```lua
 :lua=vim.pack.remove('Game of Life')
 ```
 
 # :sparkles: Summary
 Just enjoy. Credit to <a href='https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life'> THIS </a> article.
+
+
+<a href="#table-of-contents">Back to Top</a>

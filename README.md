@@ -19,7 +19,6 @@
 {
     'StealthSoldierM/conways-gol.nvim',
     config = function()
-        vim.keymap.set('n', '<leader>cg', ':Conway<CR>', { desc = 'Play conways Game of Life'})
     end,
     lazy = false,
 }

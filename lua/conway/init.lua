@@ -1,4 +1,4 @@
--- SPDX-License-Identifier: MIT
+-- SPDX_License-Identifier: MIT
 
 local M = {}
 
@@ -7,8 +7,8 @@ local state = {
   win = nil,
   timer = nil,
   grid = {},
-  width = 40,
-  height = 20,
+  width = math.ceil(vim.opt.columns:get() * 0.95 - 4),
+  height = math.ceil(vim.opt.lines:get() * 0.95),
   running = false,
 }
 
@@ -111,8 +111,8 @@ function M.open()
   vim.api.nvim_set_option_value('modifiable', true, { buf = state.buf })
 
 
-  local width = state.width * 2
-  local height = state.height
+  local width = state.width + 4
+  local height = state.height + 4
 
   local opts = {
     relative = 'editor',
